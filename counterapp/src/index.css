@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Raleway", sans-serif;
+  background-color: rgb(249, 65, 102);
+}
+
+code {
+  font-family: "Raleway", sans-serif;
+}
